@@ -1,0 +1,68 @@
+.navbar-space{
+  height: 100%;
+  width: 100%;
+  font-size: 1vw;
+}
+nav.navbar, .navbar-default {
+  background-color: #FFFFFF !important;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  height: 80%;
+  width: 100%;
+}
+
+.center-brand{
+  font-size: 2vw;
+  padding: 1%;
+  font-family: 'Baloo Chettan', cursive;
+  color: #2196F3;
+}
+/* .app-logo{
+  height: 100%;
+  width: 30%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.navbar-default {
+  background-image: none;
+  border: none;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  font-size: 1.1vw;
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: white;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  color: black;
+  background-color: transparent;
+  color: #4e54c8;
+  font-size: 1.1vw;
+  text-decoration: underline;
+}
+
+.nav-style:hover{
+  font-weight: bold;
+  color: #4e54c8;
+} */

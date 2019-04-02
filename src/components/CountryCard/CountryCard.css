@@ -1,0 +1,50 @@
+.country-card-main{
+    width: 100%;
+    height: 100%;
+    padding: 3%;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+.country-name{
+    width: 100%;
+    height: 15%;
+    font-weight: bold;
+    font-size: 1.2vw;
+    text-align: start;
+    color: #2196F3;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 8%;
+}
+.info-body{
+    width: 100%;
+    height: 75%;
+}
+.country-flag{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.country-info{
+    width: 70%;
+    height: 100%;
+    float: left;
+    font-size: 0.9vw;
+}
+.sub-country-info-type{
+    text-align: start;
+    width: 30%;
+    float: left;
+}
+.sub-country-info-value{
+    text-align: start;
+    width: 70%;
+    float: left;
+}
+.flag-img{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.info-class{
+    width: 100%;
+}
