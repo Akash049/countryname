@@ -2,6 +2,7 @@
   "name": "countryboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://akash049.github.io/countryname/",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "ajv": "^6.10.0",
@@ -16,6 +17,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
